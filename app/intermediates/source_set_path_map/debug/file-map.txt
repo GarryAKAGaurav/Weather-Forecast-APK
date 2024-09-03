@@ -1,0 +1,48 @@
+com.plcoding.weatherapp-navigation-runtime-2.4.0-0 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\1402824ea3a774e32beb8e499b1f0f51\transformed\navigation-runtime-2.4.0\res
+com.plcoding.weatherapp-play-services-basement-18.0.0-1 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\1de7e06e932d2e0ddd3ded6019ba0acd\transformed\play-services-basement-18.0.0\res
+com.plcoding.weatherapp-hilt-navigation-compose-1.0.0-2 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\26776fa61445fa26a9ee82c36e50111f\transformed\hilt-navigation-compose-1.0.0\res
+com.plcoding.weatherapp-ui-graphics-1.1.1-3 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\28c36585a39fbe1b3443ec4066a67dc7\transformed\ui-graphics-1.1.1\res
+com.plcoding.weatherapp-activity-ktx-1.3.1-4 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\2dfede8946e312f5d17a021c7773c5b1\transformed\activity-ktx-1.3.1\res
+com.plcoding.weatherapp-lifecycle-viewmodel-compose-2.4.1-5 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\37dc433d434843e548ab578e87c5d9f2\transformed\lifecycle-viewmodel-compose-2.4.1\res
+com.plcoding.weatherapp-activity-compose-1.3.1-6 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\4ac8daf34ca986d980cd63b27680d70b\transformed\activity-compose-1.3.1\res
+com.plcoding.weatherapp-foundation-layout-1.1.1-7 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\4adbdc1c88f6c7fad8b48574d0a3e320\transformed\foundation-layout-1.1.1\res
+com.plcoding.weatherapp-animation-1.1.1-8 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\4e825f3495d8e23f1001e94a022fb8bc\transformed\animation-1.1.1\res
+com.plcoding.weatherapp-ui-tooling-preview-1.1.1-9 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\56d2dd039ef3b2224dd07e83e7b78001\transformed\ui-tooling-preview-1.1.1\res
+com.plcoding.weatherapp-runtime-1.1.1-10 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\57b93bd11c2fb6d273bf85e24e1a8216\transformed\runtime-1.1.1\res
+com.plcoding.weatherapp-play-services-base-18.0.1-11 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\6043d31b050c5bf4aedcb952756279ba\transformed\play-services-base-18.0.1\res
+com.plcoding.weatherapp-animation-core-1.1.1-12 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\6aef7d0698b99833fa245b2efc9a08a5\transformed\animation-core-1.1.1\res
+com.plcoding.weatherapp-navigation-common-ktx-2.4.0-13 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\6ff101b829cf38b3414d2ef63749c1e5\transformed\navigation-common-ktx-2.4.0\res
+com.plcoding.weatherapp-savedstate-1.1.0-14 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\7148ade2052a86bfe68b8be53fca2b58\transformed\savedstate-1.1.0\res
+com.plcoding.weatherapp-navigation-runtime-ktx-2.4.0-15 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\7486996d58f114569ec6307dce24da41\transformed\navigation-runtime-ktx-2.4.0\res
+com.plcoding.weatherapp-runtime-saveable-1.1.1-16 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\767617606079109fb3c43130f5fbb4d8\transformed\runtime-saveable-1.1.1\res
+com.plcoding.weatherapp-ui-unit-1.1.1-17 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\7ad079ee65262e66bd31e5cae2d80696\transformed\ui-unit-1.1.1\res
+com.plcoding.weatherapp-ui-tooling-1.1.1-18 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\7e5715a2a381df96d8ef21243df5f15a\transformed\ui-tooling-1.1.1\res
+com.plcoding.weatherapp-startup-runtime-1.0.0-19 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\8854cec74efaf4365c7ae78f46aae362\transformed\startup-runtime-1.0.0\res
+com.plcoding.weatherapp-material-1.1.1-20 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\8e937268d0a65bebf90b8cd4534df5e2\transformed\material-1.1.1\res
+com.plcoding.weatherapp-ui-tooling-data-1.1.1-21 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\93f58c45f89db7dc95f42c133f431a8e\transformed\ui-tooling-data-1.1.1\res
+com.plcoding.weatherapp-core-1.7.0-22 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\9b0a5dd371b0753ac28198579c84c229\transformed\core-1.7.0\res
+com.plcoding.weatherapp-core-ktx-1.7.0-23 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\a1f3e1722c1a8c3d74d233f84fd05038\transformed\core-ktx-1.7.0\res
+com.plcoding.weatherapp-profileinstaller-1.1.0-24 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\a66f42fdcac61a098fbacf4839673778\transformed\profileinstaller-1.1.0\res
+com.plcoding.weatherapp-hilt-navigation-1.0.0-25 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\aa0fba5f4617c6b58de2588542ebaa0e\transformed\hilt-navigation-1.0.0\res
+com.plcoding.weatherapp-hilt-lifecycle-viewmodel-1.0.0-alpha03-26 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\b217bc5b868c5c1d98f790f5b5084e99\transformed\hilt-lifecycle-viewmodel-1.0.0-alpha03\res
+com.plcoding.weatherapp-material-icons-core-1.1.1-27 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\b5f5dda0a36c383a36040ddbda19c8de\transformed\material-icons-core-1.1.1\res
+com.plcoding.weatherapp-annotation-experimental-1.1.0-28 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\bec2d92b399d1864b96cee8c02ed9e0e\transformed\annotation-experimental-1.1.0\res
+com.plcoding.weatherapp-ui-util-1.1.1-29 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\c4fd05c07a6e746158d391bd3c26fc65\transformed\ui-util-1.1.1\res
+com.plcoding.weatherapp-ui-text-1.1.1-30 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\cf68482f41c197ea7f8ccd94ddd3a1c2\transformed\ui-text-1.1.1\res
+com.plcoding.weatherapp-activity-1.3.1-31 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\d1898b7df0d9c6adb425b55be0e6ef03\transformed\activity-1.3.1\res
+com.plcoding.weatherapp-lifecycle-viewmodel-2.3.1-32 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\d7ed697ab2b8643e079a009f32e4c32e\transformed\lifecycle-viewmodel-2.3.1\res
+com.plcoding.weatherapp-fragment-1.3.6-33 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\d817ae46a16c5c2813c31d0d3caacb17\transformed\fragment-1.3.6\res
+com.plcoding.weatherapp-ui-1.1.1-34 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\ded476600c38956ff5a530bcafa2fc33\transformed\ui-1.1.1\res
+com.plcoding.weatherapp-navigation-compose-2.4.0-35 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\df2dabdcb8ab4d7d34f8db579b627851\transformed\navigation-compose-2.4.0\res
+com.plcoding.weatherapp-material-ripple-1.1.1-36 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\dfe0eb63b503b10aee461cd61987eba5\transformed\material-ripple-1.1.1\res
+com.plcoding.weatherapp-foundation-1.1.1-37 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\e457950d0aeea72036c61fad4ab65ee8\transformed\foundation-1.1.1\res
+com.plcoding.weatherapp-lifecycle-runtime-2.3.1-38 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\e54894414137e4139ce70e5761d4a8fc\transformed\lifecycle-runtime-2.3.1\res
+com.plcoding.weatherapp-navigation-common-2.4.0-39 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\eaf1b524eb2485349957f55065291277\transformed\navigation-common-2.4.0\res
+com.plcoding.weatherapp-ui-geometry-1.1.1-40 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\f6c91ee6078f8b21c1859a73f52a0d85\transformed\ui-geometry-1.1.1\res
+com.plcoding.weatherapp-resValues-41 D:\WeatherApp-master\app\build\generated\res\resValues\debug
+com.plcoding.weatherapp-rs-42 D:\WeatherApp-master\app\build\generated\res\rs\debug
+com.plcoding.weatherapp-packageDebugResources-43 D:\WeatherApp-master\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.plcoding.weatherapp-packageDebugResources-44 D:\WeatherApp-master\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.plcoding.weatherapp-merged_res-45 D:\WeatherApp-master\app\build\intermediates\merged_res\debug
+com.plcoding.weatherapp-debug-46 D:\WeatherApp-master\app\src\debug\res
+com.plcoding.weatherapp-main-47 D:\WeatherApp-master\app\src\main\res

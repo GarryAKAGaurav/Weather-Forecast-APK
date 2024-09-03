@@ -1,0 +1,26 @@
+com.plcoding.weatherapp.test.app-activity-compose-1.3.1-0 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\3d5d1b36189fe66dff30a471401ed232\transformed\activity-compose-1.3.1\res
+com.plcoding.weatherapp.test.app-lifecycle-viewmodel-2.3.1-1 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\402140d90d778f86dd827fd64a03a65c\transformed\lifecycle-viewmodel-2.3.1\res
+com.plcoding.weatherapp.test.app-ui-graphics-1.1.1-2 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\407e9af6e2c87100c1e2aeb2f7374dbc\transformed\ui-graphics-1.1.1\res
+com.plcoding.weatherapp.test.app-ui-test-junit4-1.1.1-3 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\40c00b3eb04b1b16f9b8f4a1822053ba\transformed\ui-test-junit4-1.1.1\res
+com.plcoding.weatherapp.test.app-ui-text-1.1.1-4 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\6b22c6b7b4ffd0d61ec6a6dd471e6d61\transformed\ui-text-1.1.1\res
+com.plcoding.weatherapp.test.app-profileinstaller-1.1.0-5 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\7583f64224348407ffb3f91fa4f29b52\transformed\profileinstaller-1.1.0\res
+com.plcoding.weatherapp.test.app-runtime-1.1.1-6 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\7ac894a92d56ebaadab08fa611fdbced\transformed\runtime-1.1.1\res
+com.plcoding.weatherapp.test.app-ui-test-1.1.1-7 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\7e242a7bc7040771a30baa77435a9cfc\transformed\ui-test-1.1.1\res
+com.plcoding.weatherapp.test.app-activity-ktx-1.3.1-8 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\886e91fc0deff53e14d43a631ec52119\transformed\activity-ktx-1.3.1\res
+com.plcoding.weatherapp.test.app-core-ktx-1.7.0-9 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\8b0e2c7a17d116dc1b8273fe55a62b30\transformed\core-ktx-1.7.0\res
+com.plcoding.weatherapp.test.app-ui-1.1.1-10 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\8d43c17acd685b431a6d8866b7f6ac36\transformed\ui-1.1.1\res
+com.plcoding.weatherapp.test.app-activity-1.3.1-11 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\8d8e4625cd2da04a4690388dc6d9c123\transformed\activity-1.3.1\res
+com.plcoding.weatherapp.test.app-startup-runtime-1.0.0-12 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\91df52115c42607f529d24289b729833\transformed\startup-runtime-1.0.0\res
+com.plcoding.weatherapp.test.app-runtime-saveable-1.1.1-13 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\930c3ef222b7abe1f1bca5865b79e340\transformed\runtime-saveable-1.1.1\res
+com.plcoding.weatherapp.test.app-annotation-experimental-1.1.0-14 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\a8af62cdc4a7637e413e41cce39a3d46\transformed\annotation-experimental-1.1.0\res
+com.plcoding.weatherapp.test.app-ui-unit-1.1.1-15 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\abf30d30ef61cd387b44ba1f49575172\transformed\ui-unit-1.1.1\res
+com.plcoding.weatherapp.test.app-savedstate-1.1.0-16 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\b777d4050caadcf024efd96657a8a816\transformed\savedstate-1.1.0\res
+com.plcoding.weatherapp.test.app-ui-util-1.1.1-17 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\c202404b5f24c41d4a912743bec2b6f3\transformed\ui-util-1.1.1\res
+com.plcoding.weatherapp.test.app-core-1.7.0-18 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\e93405f4077adce0796c13e7daab7da2\transformed\core-1.7.0\res
+com.plcoding.weatherapp.test.app-lifecycle-runtime-2.3.1-19 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\f21be426044cda4c0e4daf4b7f57176c\transformed\lifecycle-runtime-2.3.1\res
+com.plcoding.weatherapp.test.app-ui-geometry-1.1.1-20 C:\Users\Gaurav Mehra\.gradle\caches\transforms-3\f4bda78554564d2bc1d9ee80fee410eb\transformed\ui-geometry-1.1.1\res
+com.plcoding.weatherapp.test.app-androidTest-21 D:\WeatherApp-master\app\build\generated\res\resValues\androidTest\debug
+com.plcoding.weatherapp.test.app-androidTest-22 D:\WeatherApp-master\app\build\generated\res\rs\androidTest\debug
+com.plcoding.weatherapp.test.app-mergeDebugAndroidTestResources-23 D:\WeatherApp-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.plcoding.weatherapp.test.app-mergeDebugAndroidTestResources-24 D:\WeatherApp-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.plcoding.weatherapp.test.app-merged_res-25 D:\WeatherApp-master\app\build\intermediates\merged_res\debugAndroidTest
